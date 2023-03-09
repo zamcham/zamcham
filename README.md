@@ -1,16 +1,13 @@
-### Hi there 👋
-This section is under construction 
-<!--
-**zamcham/zamcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Hey, I'm Cristian](https://svgshare.com/i/r10.svg)
 
-Here are some ideas to get you started:
+I am a passionate programmer who loves to code, experiment with new technologies, and play/make videogames in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Some of things I currently keep myself busy with
+------
+* I'm a fulltime student a Microverse
+* Creating new games at itch.io/zamcham
+* Currently developing a multiplayer chain reaction game
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+

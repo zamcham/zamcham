@@ -4,7 +4,7 @@ I am a passionate programmer who loves to code, experiment with new technologies
 
 ------
 
-#### Some of things I currently keep myself busy with
+#### Some things I currently keep myself busy with
 * 🎒 I'm a fulltime student a Microverse
 * 🍯 Ocasionally participating in game jams at itch.io
 * 🎮 Currently developing a multiplayer chain reaction game

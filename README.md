@@ -1,9 +1,5 @@
 ![Hey, I'm Cristian](https://i.imgur.com/DUow6wJ.png)
 
-I am a passionate programmer who loves to code, experiment with new technologies, and play/make videogames in my free time.
-
-------
-
 #### Some things I currently keep myself busy with
 * 🎒 I'm a fulltime student at [Microverse](https://www.microverse.org/) and soon I'll become a Full Stack Developer
 * 🍯 Ocasionally participating in game jams at [itch.io](https://zamcham.itch.io/)

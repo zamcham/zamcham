@@ -1,4 +1,4 @@
-![Hey, I'm Cristian](https://svgshare.com/i/r10.svg)
+![Hey, I'm Cristian](https://i.imgur.com/DUow6wJ.png)
 
 I am a passionate programmer who loves to code, experiment with new technologies, and play/make videogames in my free time.
 

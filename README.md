@@ -1,7 +1,7 @@
 ![Hey, I'm Cristian](https://i.imgur.com/DUow6wJ.png)
 
 #### Some things I currently keep myself busy with
-* 🎒 I'm a fulltime student at [Microverse](https://www.microverse.org/) and soon I'll become a Full Stack Developer
+* ⚙️ I'm a Full Stack Developer and Game Developer
 * 🍯 Ocasionally participating in game jams at [itch.io](https://zamcham.itch.io/)
 * 🎮 Currently developing a puzzle game
 
